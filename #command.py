@@ -21,3 +21,7 @@
 #df=pd.DataFrame(d)
 #df.dropna(thresh=1)
 #df.fillna('Fill value')
+#group=df.groupby('Company')
+#group.mean()
+#df.describe()
+#df.describe().transpose()
